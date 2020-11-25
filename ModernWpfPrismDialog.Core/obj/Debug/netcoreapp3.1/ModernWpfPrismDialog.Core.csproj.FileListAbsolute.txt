@@ -1,0 +1,9 @@
+C:\Users\Fouad Aniq\source\repos\ModernWpfPrismDialog\ModernWpfPrismDialog.Core\bin\Debug\netcoreapp3.1\ModernWpfPrismDialog.Core.deps.json
+C:\Users\Fouad Aniq\source\repos\ModernWpfPrismDialog\ModernWpfPrismDialog.Core\bin\Debug\netcoreapp3.1\ModernWpfPrismDialog.Core.dll
+C:\Users\Fouad Aniq\source\repos\ModernWpfPrismDialog\ModernWpfPrismDialog.Core\bin\Debug\netcoreapp3.1\ModernWpfPrismDialog.Core.pdb
+C:\Users\Fouad Aniq\source\repos\ModernWpfPrismDialog\ModernWpfPrismDialog.Core\obj\Debug\netcoreapp3.1\ModernWpfPrismDialog.Core.csprojAssemblyReference.cache
+C:\Users\Fouad Aniq\source\repos\ModernWpfPrismDialog\ModernWpfPrismDialog.Core\obj\Debug\netcoreapp3.1\ModernWpfPrismDialog.Core.AssemblyInfoInputs.cache
+C:\Users\Fouad Aniq\source\repos\ModernWpfPrismDialog\ModernWpfPrismDialog.Core\obj\Debug\netcoreapp3.1\ModernWpfPrismDialog.Core.AssemblyInfo.cs
+C:\Users\Fouad Aniq\source\repos\ModernWpfPrismDialog\ModernWpfPrismDialog.Core\obj\Debug\netcoreapp3.1\ModernWpfPrismDialog.Core.csproj.CoreCompileInputs.cache
+C:\Users\Fouad Aniq\source\repos\ModernWpfPrismDialog\ModernWpfPrismDialog.Core\obj\Debug\netcoreapp3.1\ModernWpfPrismDialog.Core.dll
+C:\Users\Fouad Aniq\source\repos\ModernWpfPrismDialog\ModernWpfPrismDialog.Core\obj\Debug\netcoreapp3.1\ModernWpfPrismDialog.Core.pdb

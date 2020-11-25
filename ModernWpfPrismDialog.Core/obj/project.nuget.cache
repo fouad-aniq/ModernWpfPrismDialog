@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cc27YiiTC9ixNFe7suaWA4cCUiwzn4l3ywLXgGJ2OdCAqXpkMria5dMsZEJ1HVV2vXSggItsbfsepacicuF3oQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fouad Aniq\\source\\repos\\ModernWpfPrismDialog\\ModernWpfPrismDialog.Core\\ModernWpfPrismDialog.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fouad Aniq\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
+    "C:\\Users\\Fouad Aniq\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\Fouad Aniq\\.nuget\\packages\\prism.wpf\\7.2.0.1422\\prism.wpf.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\Fouad Aniq\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Fouad Aniq\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Fouad Aniq\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
